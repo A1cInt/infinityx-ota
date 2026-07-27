@@ -1,13 +1,17 @@
 {
   "response": [
     {
-      "filename": "Project_Infinity-X-3.15-plato.zip",
-      "download": "https://sourceforge.net/projects/infinity-x-plato-unofficial/files/26-07-2026/Project_Infinity-X-3.12-plato-26.07.2026-VANILLA-UNOFFICIAL.zip/download",
-      "url": "https://sourceforge.net/projects/infinity-x-plato-unofficial/files/26-07-2026/Project_Infinity-X-3.12-plato-26.07.2026-VANILLA-UNOFFICIAL.zip/download",
       "datetime": 2000000000,
+      "timestamp": 2000000000,
+      "filename": "Project_Infinity-X-4.0-plato.zip",
       "id": "1e07e054d1c3ece2b126j52cf6994741ae",
+      "md5": "1e07e054d1c3ece2b126j52cf6994741ae",
+      "romtype": "UNOFFICIAL",
+      "type": "UNOFFICIAL",
       "size": 2068045001,
-      "version": "3.15"
+      "url": "https://sourceforge.net/projects/infinity-x-plato-unofficial/files/26-07-2026/Project_Infinity-X-3.12-plato-26.07.2026-VANILLA-UNOFFICIAL.zip/download",
+      "download": "https://sourceforge.net/projects/infinity-x-plato-unofficial/files/26-07-2026/Project_Infinity-X-3.12-plato-26.07.2026-VANILLA-UNOFFICIAL.zip/download",
+      "version": "4.0"
     }
   ]
 }
