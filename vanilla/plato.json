@@ -1,13 +1,12 @@
 {
-  "response": [
-    {
-      "datetime": 0,
-      "filename": "",
-      "id": "",
-      "romtype": "UNOFFICIAL",
-      "size": 0,
-      "url": "",
-      "version": "3.12"
-    }
-  ]
+	"response": [
+		{
+			"filename": "Project_Infinity-X-3.12-plato-26.07.2026-VANILLA-UNOFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x-plato-unofficial/files/26-07-2026/Project_Infinity-X-3.12-plato-26.07.2026-VANILLA-UNOFFICIAL.zip/download",
+			"timestamp": 1785096243,
+			"md5": "1e08e054d1c3ece2b126252cf69741ae",
+			"size": 2052045001,
+			"version": "3.12"
+		}
+	]
 }
