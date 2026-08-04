@@ -1,14 +1,17 @@
 EN
-- Added BCR as a system app
-- Added OTA updates
-- Synced latest Infinity X 3.12 changes
+- Synchronized the latest repository commits
+- Added OTA updates for the GApps version
+- Added all my pre-installed apps from previous Vanilla versions to the GApps version
+- That's all for now :3
 
 RU
-- Добавлен BCR как системное приложение
-- Добавлены OTA-обновления
-- Синхронизированы последние изменения Infinity X 3.12
+- Синхронизированы последние коммиты репозиториев
+- Добавлены OTA-обновления для GApps версии
+- Добавлены все предустановленные мною приложения из прошлых Vanilla версий для GApps версии
+- На этом всё :3
 
 ID
-- Menambahkan BCR sebagai aplikasi sistem
-- Menambahkan pembaruan OTA
-- Menyinkronkan perubahan terbaru Infinity X 3.12
+- Menyinkronkan commit repositori terbaru
+- Menambahkan pembaruan OTA untuk versi GApps
+- Menambahkan semua aplikasi bawaan saya dari versi Vanilla sebelumnya ke versi GApps
+- Itu saja untuk saat ini :3
