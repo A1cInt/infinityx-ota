@@ -1,17 +1,29 @@
 EN
-- Synchronized the latest repository commits
-- Added OTA updates for the GApps version
-- Added all my pre-installed apps from previous Vanilla versions to the GApps version
-- That's all for now :3
+WARNING: Root access will be lost after the update. You will need to patch and flash the boot image again if you need root. I also strongly recommend disabling (or better yet, uninstalling and reinstalling after the update) your modules.
+- August 1, 2026 Security Patch
+- Added iOS-style Dynamic Island
+- Fixed /data accessibility for custom recoveries (which we don't even have, lol)
+- Reduced CPU load by fixing log spam
+- Fixed UI-breaking bugs
+- Fixed sysprop spoofing/hiding issues
+- And much more!
 
 RU
-- Синхронизированы последние коммиты репозиториев
-- Добавлены OTA-обновления для GApps версии
-- Добавлены все предустановленные мною приложения из прошлых Vanilla версий для GApps версии
-- На этом всё :3
+ПРЕДУПРЕЖДЕНИЕ: после обновления рут права пропадут, вам будет необходимо пропатчить и прошить boot образ заново если вам нужен рут. Так же я настоятельно рекомендую отключить (а лучше удалить и помле обновления заново установить) модули.
+- Патч безопасности от 1 Августа 2026
+- Добавлен динамический остров в стиле iOS
+- Исправлена доступность /data для работы из кастомных рекавери (которых у нас нету лол)
+- Уменьшена нагрузка на процессор за счёт исправления спама в логи
+- Исправлены баги ломающие интерфейс
+- Исправлены ошибки скрытия sysprop
+- И ещё много всего!
 
 ID
-- Menyinkronkan commit repositori terbaru
-- Menambahkan pembaruan OTA untuk versi GApps
-- Menambahkan semua aplikasi bawaan saya dari versi Vanilla sebelumnya ke versi GApps
-- Itu saja untuk saat ini :3
+PERINGATAN: Akses root akan hilang setelah pembaruan. Anda harus mematrik dan memflashing ulang image boot jika membutuhkan root. Saya juga sangat menyarankan untuk menonaktifkan (atau lebih baik menghapus dan menginstal ulang setelah pembaruan) modul-modul Anda.
+- Patch Keamanan 1 Agustus 2026
+- Menambahkan Dynamic Island bergaya iOS
+- Memperbaiki aksesibilitas /data untuk custom recovery (yang bahkan belum kita miliki, lol)
+- Mengurangi beban CPU dengan memperbaiki spam log
+- Memperbaiki bug yang merusak UI
+- Memperbaiki masalah penyembunyian sysprop
+- Dan masih banyak lagi!
